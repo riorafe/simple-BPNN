@@ -1,4 +1,4 @@
 # simple-BPNN
-This was my 5th semester project when i was studying at Binus University. T
+This was my 5th semester project when I was studying at Binus University.
 
-he original code that being taught is Bpnn.py, then i improved it using Keras
+The original code that being taught is Bpnn.py, then I improved it using Keras
